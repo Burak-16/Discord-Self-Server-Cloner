@@ -32,8 +32,8 @@ README.md
 1. Depoyu klonlayın:
 
 ```bash
-git clone https://github.com/Burak-16/nsfw-selfbot-v3.git
-cd nsfw-selfbot-v3
+git clone https://github.com/Burak-16/Discord-Self-Server-Clone.git
+cd Discord-Self-Server-Clone
 ```
 
 2. Node.js ve gerekli paketleri kurun (Node.js ≥16):
